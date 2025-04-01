@@ -1,24 +1,22 @@
-# Qingyang Zhou 
-### **Third-Year Computer Science Undergraduate | AI & 3D Vision | Researcher**
+# Qingyang Zhou (周轻扬)
+###### ——**Third-Year Computer Science Undergraduate | AI & 3D Vision | Researcher**
 
 **📍Tsinghua University**  
-**Research Interests:** AI, 3D Vision, Computer Graphics, Computer Vision, ML Security  
-
+**Research Interests:** AI, 3D Vision&Reconstruction, Computer Graphics, Computer Vision, LLM, ML Security  
+![alt text](pic2.jpg)
 [Download CV](cv_zqy.pdf)
-![alt text](pic1.jpg)
 
-#### **Education**  
+## **▪️Education**  
 
 September 2022 - Present  
 **Tsinghua University**
 
 Xinya College, Tsinghua University: [Xinya College](https://www.xyc.tsinghua.edu.cn/index.htm)  
-
 Department of Computer Science and Technology, Tsinghua University: [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/)  
 
 
 
-#### **Research Publications**
+## **▪️Research Publications**
 
 **"Curriculum Multi-Reward Reinforcement Learning for Customized Text-to-Image Generation"**  
 *Yuwei Zhou, Xin Wang, Hong Chen, Yipeng Zhang, **Qingyang Zhou**, Wenwu Zhu*  
@@ -27,9 +25,7 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 [OpenReview PDF](https://openreview.net/pdf?id=kiGUqX6Gct)
 
 
-
-
-#### **Internship & Research Experience**
+## **▪️Internship & Research Experience**
 
 
 ##### **Scientific Research Internship at Multimedia and Network Big Data Lab** 
@@ -47,8 +43,8 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 📅 *January 2025 - Present*  
 [📍 Tsinghua University Pervasive Human-Computer Interaction Lab](https://pi.cs.tsinghua.edu.cn/)  
 
-- Investigating methods to **align human and AI thought processes**.  
-- Developing a **writing assistant application**.
+  - Investigating methods to **align human and AI thought processes**.  
+  - Developing a **writing assistant application**.
 
 
 ##### **Scientific Research Internship at Information Retrieval Lab** 
@@ -56,13 +52,13 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 📅 *October 2024 - Present*  
 [📍 Tsinghua University Information Retrieval Lab](http://www.thuir.cn/)  
 
-- Focused on **enhancing the SAE recommendation model**.
+  - Focused on improving traditional recommendation models (such as FM, DeepFM, AFM).  
+  - Incorporated **SAE plugins** into these models to enhance their **interpretability, controllability, and transparency**.
 
 
 
 
-#### **Positions of Responsibility**
-
+## **▪️Positions of Responsibility**
 
 ##### **Secretary of the Intelligent Agent Department**  
 📅 *February 2023 - Present*  
@@ -85,7 +81,7 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 
 
 
-#### **Skills**
+## ▪️**Skills**
 
 | **Languages**        | Chinese, English, Spanish (Basic Proficiency) |  
 |----------------------|----------------------------------------------|  
@@ -95,7 +91,7 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 
 
 
-#### **Projects**
+## ▪️**Projects**
 
 ##### **Intelligent Agent-Based Game 'Generals'**  
 
