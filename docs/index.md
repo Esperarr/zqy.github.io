@@ -22,8 +22,8 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 *Yuwei Zhou, Xin Wang, Hong Chen, Yipeng Zhang, **Qingyang Zhou**, Wenwu Zhu*  
 *Submitted to AAAI 2025*  
 08 August 2024 (Modified: 10 December 2024)  
-[OpenReview PDF](https://openreview.net/pdf?id=kiGUqX6Gct)
-
+[OpenReview link](https://openreview.net/pdf?id=kiGUqX6Gct)
+[View PDF](Curriculum_Multi_Reward.pdf)
 
 ## **▪️Internship & Research Experience**
 
@@ -113,6 +113,7 @@ Minor Project as part of curriculum
 - Wrote Python code using **PyTorch** to construct models with **CNN**, **RNN**, and **MLP**, testing model performance. The final model achieved an accuracy rate of over **90%**.
 
 ##### **Android news App**
+
 
 *September 2023*
 Major Project as a part of Java course
