@@ -4,15 +4,15 @@
 **📍Tsinghua University**  
 **Research Interests:** AI, 3D Vision&Reconstruction, Computer Graphics, Computer Vision, LLM, ML Security  
 ![alt text](pic2.jpg)
-[Download CV](cv_zqy.pdf)
+[Download CV](CV_zqy.pdf)
 
 ## **▪️Education**  
 
 September 2022 - Present  
 **Tsinghua University**
 
-Xinya College, Tsinghua University: [Xinya College](https://www.xyc.tsinghua.edu.cn/index.htm)  
-Department of Computer Science and Technology, Tsinghua University: [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/)  
+Xinya College, Tsinghua University: [Xinya College](https://www.xyc.tsinghua.edu.cn/en/)  
+Department of Computer Science and Technology, Tsinghua University: [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/)  
 
 
 
@@ -112,3 +112,10 @@ Minor Project as part of curriculum
 - Developed a **text sentiment classification model** to analyze the sentiment of input text.  
 - Wrote Python code using **PyTorch** to construct models with **CNN**, **RNN**, and **MLP**, testing model performance. The final model achieved an accuracy rate of over **90%**.
 
+##### **Android news App**
+
+*September 2023*
+Major Project as a part of Java course
+
+- An **Android news app** written in **Java** that can fetch backend news data from a specified interface and display it on the app's pages. It is capable of implementing features such as **pull-down refresh**, **pull-up to load more**, **video playback**, **home page categorization**, **swipeable tab pages**, and the ability to **like and favorite news articles**.
+- Written in Java code within Android Studio, Completed the entire code architecture, coding, and debugging work for the news app. 
