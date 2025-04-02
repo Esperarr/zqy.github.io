@@ -4,7 +4,7 @@
 **📍Tsinghua University**  
 **Research Interests:** AI, 3D Vision&Reconstruction, Computer Graphics, Computer Vision, LLM, ML Security  
 ![alt text](pic2.jpg)
-[Download CV](CV_zqy.pdf)
+<!-- [Download CV](CV_zqy.pdf) -->
 
 ## **▪️Education**  
 
