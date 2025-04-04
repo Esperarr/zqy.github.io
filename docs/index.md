@@ -1,8 +1,8 @@
 # Qingyang Zhou (周轻扬)
-###### ——**Third-Year Computer Science Undergraduate | AI & 3D Vision | Researcher**
+###### ——**Third-Year Computer Science Undergraduate | Researcher**
 
 **📍Tsinghua University**  
-**Research Interests:** AI, 3D Vision&Reconstruction, Computer Graphics, Computer Vision, LLM, ML Security  
+<!-- **Research Interests:** AI, 3D Vision&Reconstruction, Computer Graphics, Computer Vision, LLM, ML Security   -->
 ![alt text](pic2.jpg)
 <!-- [Download CV](CV_zqy.pdf) -->
 
@@ -43,8 +43,9 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 📅 *January 2025 - Present*  
 [📍 Tsinghua University Pervasive Human-Computer Interaction Lab](https://pi.cs.tsinghua.edu.cn/)  
 
-  - Investigating methods to **align human and AI thought processes**.  
-  - Developing a **writing assistant application**.
+  - Conducting research on **aligning human and AI thought processes**, with a planned submission to **UIST 2025**.
+
+  - In charge of building a **writing assistant application** that facilitates collaborative idea development.
 
 
 ##### **Scientific Research Internship at Information Retrieval Lab** 
