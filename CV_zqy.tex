@@ -1,0 +1,231 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS 
+%----------------------------------------------------------------------------------------
+ 
+\documentclass{resume} % Use the custom resume.cls style 
+\usepackage[dvipsnames]{xcolor}
+\usepackage[left=0.4 in,top=0.3 in,right=0.4 in,bottom=0.3in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Qingyang Zhou} % Your name 
+\address{Tsinghua University,Hai Dian, Beijing} % Your address 
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional) 
+\address{+86 13269109251 \\ qy-zhou22@mails.tsinghua.edu.cn} % Your phone number and email
+\address{https://orcid.org/0009-0004-4448-7663}
+
+\definecolor{TsinghuaPurple}{cmyk}{0.58,0.90,0,0}
+\renewenvironment{rSection}[1]{
+\sectionskip
+\textcolor{TsinghuaPurple}{\MakeUppercase{#1}}
+\sectionlineskip
+\hrule
+\begin{list}{}{
+%\setlength{\leftmargin}{1.5em}
+\setlength{\leftmargin}{0em}
+}
+\item[]
+}{
+\end{list}
+}
+
+
+\begin{document}  
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Tsinghua University} \hfill
+{September 2022 - Present}\\ 
+Xinya College, Tsinghua University: https://www.xyc.tsinghua.edu.cn/index.htm
+\\
+Department of Computer Science and Technology, Tsinghua University: https://www.cs.tsinghua.edu.cn/
+\\
+GPA 3.54/4.00
+\\
+Selected A+ professional compulsory course: Introduction to Complex Analysis; \\
+Selected A/A- professional compulsory courses: Linear Algebra, Fundamentals of Programming, Programing and Training, Software Engineering, 	Introduction to Artificial Intelligence, Digital Logic Experimentation, Computer Network Security Technology\\
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+\\
+{\bf Tianjin Nankai High School} \hfill
+{September 2019 - June 2022}
+
+
+\end{rSection} 
+
+%--------------------------------------------------------------------------------------
+%   Research Publications 
+%--------------------------------------------------------------------------------------
+\begin{rSection}{ Research Publication } \itemsep -3pt        
+{\textbf{"Curriculum Multi-Reward Reinforcement Learning for Customized Text-to-Image Generation"}\\
+ \textit{Yuwei Zhou, Xin Wang, Hong Chen, Yipeng Zhang, \textbf{Qingyang Zhou}, Wenwu Zhu }\\
+ 08 Aug 2024 (modified: 10 Dec 2024)Submitted to AAAI 2025}\\
+ https://openreview.net/pdf?id=kiGUqX6Gct\\
+ 
+\end{rSection}
+
+%	INTERNSHIP/TRAININGS 
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{INTERNSHIP/TRAININGS}
+
+\begin{rSubsection}{scientific research internship at Multimedia and Network Big Data Lab}{July 2023 - July 2024}{Tsinghua University Multimedia and Network Big Data Lab: https://mn.cs.tsinghua.edu.cn/index/index.html}{}              
+\item Participating in the research project "Video Generation System Combining Large Language Models with Diffusion Models".  
+\item conduct study and research on diffusion models and personalized image generation.
+\item Assisted in publishing the paper: "Curriculum Multi-Reward Reinforcement Learning for Customized Text-to-Image Generation".
+\end{rSubsection}  
+
+\begin{rSubsection}{scientific research internship at Pervasive Human Computer Interaction Lab}{January 2025 - Now}{Tsinghua University Pervasive Human Computer Interaction Laboratory: https://pi.cs.tsinghua.edu.cn/}{}              
+\item Participate in research on aligning human and AI thought chains.
+\item Responsible for developing a writing assistant application.
+\end{rSubsection}  
+
+\begin{rSubsection}{scientific research internship at Information Retrieval Lab}{October 2024 - Now}{Information Retrieval Lab at Tsinghua University: http://www.thuir.cn/}{}              
+\item focusing on enhancing the SAE recommendation model.
+\end{rSubsection}  
+
+\end{rSection}
+
+ %-----------------------------------------------------------------------------
+ % POSITION OF RESPONSIBILITY
+ %-----------------------------------------------------------------------------
+  
+\begin{rSection}{POSITION OF RESPONSIBILITY}
+
+\begin{rSubsection}{Secretary of the Intelligent Agent Department \\of the Student Science and Technology Association}{February 2023 - Present}{Tsinghua University Computer Science and Technology Department,\\ Student Science and Technology Association,\\ Intelligent Agent Department:\\
+https://net9.org/home/}{}              
+\item Participated in the game development and event organization for the Intelligent Agent Competition.  
+\item Mainly responsible for the development of the Intelligent Agent-Based Game 'Generals' Project in the 28th Tsinghua University Intelligent Agent Competition.
+\end{rSubsection}  
+
+%------------------------------------------------
+
+\begin{rSubsection}{Tutor of Tsinghua University Science and Engineering Summer Camp} {July 2024 - August 2024}{Tsinghua University 2024 Science and Engineering Summer Camp I6 Class Tutor}{} 
+\item Responsibled for event organization, answering professional questions, and other related tasks.
+\item Led and organized the operation of certain engineering-related activity projects, such as intelligent robot design and card-bridge construction.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Skills
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{skills }
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }  
+Languages & Chinese,English,Spanish(Basic Proficiency)\\    
+Programming & C/C++,Python, Javascript/Typescript, Verilog/SystemVerilog, Java \\   
+ 
+\end{tabular}   
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+
+%-------------------------------------------------------------------------------
+%	PROJECTS
+
+\begin{rSection}{PROJECTS}
+
+\begin{rSubsection}{Intelligent Agent-Based Game ‘Generals’} {September 2023 - May 2024}{Major Project in the 28th Tsinghua University Intelligent Agent Competition}{}
+
+\item A Turn-Based Strategy Game Project, can be visited at: https://www.saiblo.net/game/35
+\item Participated in the development of this game project.
+\item Responsibled for writing backend logic, , writing unit tests, debugging, creating the SDK, authoring documentation, and guiding participants through the competition. 
+ 
+\end{rSubsection}  
+
+%------------------------------------------------
+
+\begin{rSubsection}{Text Sentiment Analysis Model}{May 2024}{Minor Project as a part of curriculum}{} 
+\item A text sentiment classification model that can analyze the sentiment of the corpus based on the input text.
+\item Wrote Python code, using the PyTorch framework, to construct text sentiment classification models with CNN, RNN, and MLP respectively, and test the model performance. The final model’s accuracy rate could exceed 90\%  
+
+\end{rSubsection}
+
+%-------------------------------------------------
+
+
+\begin{rSubsection}{Five-stage pipeline CPU}{November 2025 - December 2025}{Major Project as a part of Computer Organization course}{}
+
+\item A five-stage pipeline CPU hardware program capable of executing 19 basic RISC-V instructions as well as some extended instructions.
+\item Wrote hardware code in System Verilog, implementing functions such as data passing, signal control, and hazard handling in a five-stage pipeline, and completed the debugging process using Vivado simulation.
+
+\end{rSubsection}
+
+%-------------------------------------------------
+
+
+\begin{rSubsection}{Connect4 AI}{June 2024}{Minor Project as a part of curriculum}{}
+
+\item An AI program that can compete in Connect4 games against existing AI.
+\item Used Python, code was written based on the Monte Carlo Tree Search(MCT) and Upper Confidence Bound algorithm(UCT) to construct an AI that can compete in Connect4 games against existing AI, with a final win rate higher than 90\%. 
+
+\end{rSubsection}
+
+%-------------------------------------------------- 
+
+\begin{rSubsection}{Chinese Character 'Pinyin' Input Method}{April 2024}{Minor Project as a part of curriculum}{}    
+
+\item An Chinese character 'Pinyin' input method program that can predict and convert 'Pinyin' input into Chinese characters for output.       
+\item Used Python, wrote a program based on the Hidden Markov Model and the Viterbi algorithm, ultimately achieving a character prediction accuracy rate of over 85\% for Chinese characters.
+
+\end{rSubsection} 
+
+\end{rSection} 
+%-------------------------------------------------
+
+
+\begin{rSubsection}{Android news App}{September 2023}{Major Project as a part of Java course}{}
+
+\item An Android news app written in Java that can fetch backend news data from a specified interface and display it on the app's pages. It is capable of implementing features such as pull-down refresh, pull-up to load more, video playback, home page categorization, swipeable tab pages, and the ability to like and favorite news articles.
+\item Written in Java code within Android Studio, Completed the entire code architecture, coding, and debugging work for the news app. 
+
+\end{rSubsection}
+
+%--------------------------------------------------------------------------------------
+% Extra-Cirrucular
+%--------------------------------------------------------------------------------------
+
+\begin{rSection}{Extra-Cirrucular} \itemsep -2pt   
+
+\begin{itemize}
+ 
+\item Served as a volunteer for Tsinghua University’s Tianjin recruitment team \hfill August 2023\&August 2023 
+\item Served as the Publicity Department Executive in Xinya College. \hfill September 2022-September 2023  
+  
+\end{itemize}  
+
+
+\end{rSection} 
+
+  
+
+\end{document}
