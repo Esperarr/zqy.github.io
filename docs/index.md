@@ -25,6 +25,12 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 [OpenReview link](https://openreview.net/pdf?id=kiGUqX6Gct)
 [View PDF](Curriculum_Multi_Reward.pdf)
 
+**"Towards Mutually Illuminative Collaborative Human–AI Deliberate Discussion"**
+*Zipeng Zhang , Shiwei Wu, Ran Ran, **Qingyang Zhou**, Ranrui Ma, Jiaye Leng, Jian Zeng, Zhenhui, Chun Yu*
+*Submitted to UIST 2025*  
+[PCS link](https://new.precisionconference.com/uist25a/coauthor/subs/1831)
+[View PDF](Towards_Mutually_Illuminative_Collaborative_Human–AI_Deliberate_Discussion.pdf)
+
 ## **▪️Internship & Research Experience**
 
 
@@ -43,7 +49,7 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 📅 *January 2025 - Present*  
 [📍 Tsinghua University Pervasive Human-Computer Interaction Lab](https://pi.cs.tsinghua.edu.cn/)  
 
-  - Conducting research on **aligning human and AI thought processes**, with a planned submission to **UIST 2025**.
+  - Conducting research on **aligning human and AI thought processes**, submitted to **UIST 2025**.
 
   - In charge of building a **writing assistant application** that facilitates collaborative idea development.
 
@@ -117,6 +123,7 @@ Minor Project as part of curriculum
 
 
 *September 2023*
+
 Major Project as a part of Java course
 
 - An **Android news app** written in **Java** that can fetch backend news data from a specified interface and display it on the app's pages. It is capable of implementing features such as **pull-down refresh**, **pull-up to load more**, **video playback**, **home page categorization**, **swipeable tab pages**, and the ability to **like and favorite news articles**.
