@@ -26,6 +26,7 @@ Department of Computer Science and Technology, Tsinghua University: [Department 
 [[View PDF]](Curriculum_Multi_Reward.pdf)
 
 **"Towards Mutually Illuminative Collaborative Human–AI Deliberate Discussion"**
+
 *Zipeng Zhang , Shiwei Wu, Ran Ran, **Qingyang Zhou**, Ranrui Ma, Jiaye Leng, Jian Zeng, Zhenhui, Chun Yu*
 *Submitted to UIST 2025*  
 [[PCS link]](https://new.precisionconference.com/uist25a/coauthor/subs/1831)
